@@ -8,6 +8,12 @@ Open locally:
 open index.html
 ```
 
+Production domain:
+
+```txt
+bhargavkacharla.com
+```
+
 Design direction:
 - Adam Boudjemaa-inspired agentic portfolio
 - Dark cyber/AI background with particles, grid, glow, noise

@@ -1,6 +1,6 @@
 # Bhargav Portfolio AI
 
-AI engineering and agent-systems portfolio for Bhargav Kacharla.
+AI engineering, backend, and agent-systems portfolio for Bhargav Kacharla.
 
 Open locally:
 
@@ -12,5 +12,5 @@ Design direction:
 - Adam Boudjemaa-inspired agentic portfolio
 - Dark cyber/AI background with particles, grid, glow, noise
 - Split hero with terminal profile and live agent status
-- Sections for agent runtimes, coding agents, tool orchestration, context systems, evals, and reliability
+- Sections for agent runtimes, coding agents, backend platforms, tool orchestration, context systems, evals, and reliability
 - Content focused on applied AI engineering and production agents, not ML model training
